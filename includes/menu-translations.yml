@@ -1,0 +1,17 @@
+fr:
+	home: 'Accueil'
+	projects: 'Projets'
+	about_us: 'De nous'
+	gallery: 'Galerie'
+	contact: 'Contact'
+	location: 'Lieu'
+	training: 'Training'
+
+sw:
+	home: 'Home'
+	projects: 'MIRADI'
+	about_us: 'KUHUSU SISI'
+	gallery: 'PICHA'
+	contact: 'MAWASILIANO'
+	location: 'MAHALI TULIPO'
+	training: 'Training'
